@@ -1,2 +1,0 @@
-# gennyfile
-new to git
